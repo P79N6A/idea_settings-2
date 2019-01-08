@@ -1,5 +1,5 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Framework Detection" shouldLog="false" />
+    <notification groupId="Framework Detection" displayType="NONE" shouldLog="false" />
   </component>
 </application>
