@@ -59,6 +59,7 @@
     <keyboard-shortcut first-keystroke="ctrl f1" />
     <keyboard-shortcut first-keystroke="shift ctrl f5" />
   </action>
+  <action id="ShowUmlDiagram" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
   </action>
@@ -85,6 +86,9 @@
   </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="shift ctrl alt f12" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="shift ctrl alt u" />
   </action>
   <action id="XDebugger.CopyWatch" />
 </keymap>
