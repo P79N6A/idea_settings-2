@@ -142,6 +142,10 @@
           <option name="url" value="https://github.com/henryhyn/tensorflow-serving-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.qiyi.domain/chenyadong/distributed-tensorflow-hdfs.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\IdeaProjects" />
