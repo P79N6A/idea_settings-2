@@ -14,6 +14,9 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt 5" />
   </action>
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="shift ctrl alt c" />
+  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift ctrl alt minus" />
   </action>
@@ -25,6 +28,7 @@
   </action>
   <action id="CompareTwoFiles" />
   <action id="Compile" />
+  <action id="CopyReference" />
   <action id="DebugClass">
     <keyboard-shortcut first-keystroke="shift ctrl f9" />
   </action>
@@ -39,6 +43,7 @@
   <action id="ForceRunToCursor" />
   <action id="HippieCompletion" />
   <action id="Images.EditExternally" />
+  <action id="IntroduceFunctionalParameter" />
   <action id="Maven.Reimport">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
@@ -93,6 +98,9 @@
   </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="shift ctrl alt u" />
+  </action>
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
   </action>
   <action id="XDebugger.CopyWatch" />
 </keymap>
