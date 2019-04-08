@@ -1,0 +1,39 @@
+<application>
+  <component name="StudioSettings">
+    <option name="generalSettings">
+      <GeneralSettings>
+        <option name="macAddress" value="B4-D5-BD-A3-9E-31" />
+      </GeneralSettings>
+    </option>
+    <option name="accountSettings">
+      <AccountSettings>
+        <option name="providerAccountMap">
+          <map>
+            <entry value="{&quot;cookies&quot;:{&quot;c_token&quot;:&quot;c7434103f3d8bdab8f3d2a16ded65cba&quot;,&quot;sg&quot;:&quot;d15&quot;,&quot;lvc&quot;:&quot;sAhpO7BzfSk8sw%3D%3D&quot;,&quot;JSESSIONID&quot;:&quot;node0wpjjoltuo9z6qeozcsbdcyu3285.node0&quot;,&quot;ck2&quot;:&quot;6d43f7247b9f6dcc40422810f6b5d779&quot;,&quot;lg&quot;:&quot;true&quot;,&quot;an&quot;:&quot;lepai.cyd&quot;},&quot;akAccess&quot;:{&quot;accessId&quot;:&quot;WVBMRqpdPwrl7KYx&quot;,&quot;accessSecret&quot;:&quot;GSANB2eEo9uYi7LwXG9OhS0bgpvGmW&quot;},&quot;userDetail&quot;:{&quot;bucId&quot;:657500,&quot;mail&quot;:&quot;lepai.cyd@alibaba-inc.com&quot;,&quot;phone&quot;:&quot;15801939846&quot;,&quot;extInfo&quot;:&quot;{\u0027name\u0027:\u0027陈亚东\u0027}&quot;,&quot;lastLoginTime&quot;:&quot;Apr 8, 2019 7:47:42 PM&quot;,&quot;baseId&quot;:&quot;100955&quot;,&quot;accountId&quot;:&quot;100955&quot;,&quot;accountType&quot;:&quot;2&quot;,&quot;accountName&quot;:&quot;lepai.cyd&quot;,&quot;nick&quot;:&quot;乐湃&quot;,&quot;disabled&quot;:false,&quot;registed&quot;:true,&quot;havanaId&quot;:&quot;2554863615&quot;,&quot;yunAccount&quot;:&quot;bsxqdpndmwuk@aliyun.com&quot;,&quot;businessId&quot;:&quot;100955&quot;,&quot;enableKp&quot;:0,&quot;gmtCreate&quot;:&quot;Jun 30, 2015 10:54:39 AM&quot;},&quot;profilePhoto&quot;:&quot;C:\\Users\\lepai.cyd\\.odps.studio\\user\\100955.jpg&quot;,&quot;loginType&quot;:&quot;ALI_WORK&quot;}###STUDIO_USER_ACCOUNT_PROVIDER">
+              <key>
+                <AccountUnitKey>
+                  <option name="name" value="STUDIO_USER_ACCOUNT" />
+                  <option name="providerId" value="STUDIO_USER_ACCOUNT_PROVIDER" />
+                </AccountUnitKey>
+              </key>
+            </entry>
+          </map>
+        </option>
+      </AccountSettings>
+    </option>
+    <option name="sdkSettings">
+      <SdkSettings>
+        <option name="allSdks">
+          <list>
+            <SdkInfo>
+              <option name="sdkType" value="ODPS_CMD" />
+              <option name="version" value="0.29.1" />
+              <option name="installedLocation" value="C:\Users\lepai.cyd\.IdeaIC2019.1\config\plugins\odps-studio-intellij\odpscmd_public" />
+              <option name="isDefault" value="true" />
+            </SdkInfo>
+          </list>
+        </option>
+      </SdkSettings>
+    </option>
+  </component>
+</application>

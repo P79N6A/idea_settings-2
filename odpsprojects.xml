@@ -1,0 +1,227 @@
+<application>
+  <component name="StudioOdpsProjects">
+    <StudioOdpsProject>
+      <option name="packageNames">
+        <list>
+          <option value="abif.pkg_83312_l2" />
+          <option value="ad_effect.ad_effect_fun_4_dmp" />
+          <option value="ad_effect.pkg_17461_8926_3" />
+          <option value="ad_nz_dw.muse_odps_package" />
+          <option value="ad_p4p_dw.p4pdw_for_adalgo" />
+          <option value="ad_p4p_dw.pkg_145970_l3" />
+          <option value="ad_p4p_dw.pkg_145973_l3" />
+          <option value="ad_quality_tech.ad_quality_term_rule_detect" />
+          <option value="ad_tbk_dw.ad_tbk_4_algo" />
+          <option value="ad_tbk_dw.pkg_102579_l2" />
+          <option value="ad_tbk_dw.pkg_17562_6967_3" />
+          <option value="algo1688.algo1688_tw" />
+          <option value="alifin_odps_birisk.birisk_for_alimama_algo" />
+          <option value="alimama_advertiser_tool.all_table_read_4_algo" />
+          <option value="alimama_cloudatlas.open_for_alimm_algo" />
+          <option value="alimama_data_common.pkg_20341_5133_2" />
+          <option value="alimama_ods.all_table_read_4_algo" />
+          <option value="alimm_dispads_data.uitplus_node_hash" />
+          <option value="alipaydm.graphlibs" />
+          <option value="alipaydw.alipaydw_for_alimama_algo" />
+          <option value="aliyun_img_bamai.pkg_17554_4203_2" />
+          <option value="aliyun_img_bamai.pkg_17554_4531_2" />
+          <option value="aliyun_img_bamai.pkg_28955_l3" />
+          <option value="aliyun_searchlog.pkg_129073_l2" />
+          <option value="aliyun_searchlog.pkg_aliyun_searchlog_for_alimama_algo" />
+          <option value="cnzz_mart.pakg_1349_l2" />
+          <option value="cnzz_mart.pakg_24141_l2" />
+          <option value="cnzz_mart.pakg_989749_l2" />
+          <option value="cnzz_mart.pakg_991985_l2" />
+          <option value="cnzz_mart.pkg_129411_l2" />
+          <option value="cnzz_mart.pkg_158943_l2" />
+          <option value="cnzz_mart.pkg_158946_l2" />
+          <option value="cnzz_mart.pkg_159434_l2" />
+          <option value="cnzz_mart.pkg_159435_l2" />
+          <option value="cnzz_mart.pkg_159944_l2" />
+          <option value="cnzz_mart.pkg_163457_l3" />
+          <option value="cnzz_mart.pkg_163458_l2" />
+          <option value="cnzz_mart.pkg_38892_l3" />
+          <option value="cnzz_mart.pkg_48987_l3" />
+          <option value="cnzz_mart.pkg_48988_l3" />
+          <option value="cnzz_ods.pkg_176223_l3" />
+          <option value="cnzz_ods.pkg_50418_l3" />
+          <option value="cnzz_ods.pkg_50419_l3" />
+          <option value="cnzz_ods.pkg_55381_l2" />
+          <option value="crm_cdm.pkg_145983_l3" />
+          <option value="dmp_public.dmppublic_for_algo" />
+          <option value="image_algorithm_platform.algorithm_package" />
+          <option value="newpe_data.pkg_84684_l2" />
+          <option value="p13n.p13n_for_alimama" />
+          <option value="palgo_wow.sihan_tmp" />
+          <option value="search_dw.pkg_20003_13400_3" />
+          <option value="search_fake.pakg_72584_l2" />
+          <option value="search_fake.pkg_101713_l3" />
+          <option value="search_fake.pkg_156109_l2" />
+          <option value="search_kg.alinlp_udf" />
+          <option value="search_ods.pkg_20004_10908_3" />
+          <option value="search_ods.pkg_20004_4523_2" />
+          <option value="search_ods.pkg_20004_8647_3" />
+          <option value="search_ods.search_ods_for_alimama" />
+          <option value="search_offline.qt_udf_pk" />
+          <option value="search_offline_dev.search_offline_dev_for_alimama_algo" />
+          <option value="secdm.pkg_29143_l3" />
+          <option value="secdm.pkg_32800_l4" />
+          <option value="secdw.pkg_31579_l3" />
+          <option value="sectech.pkg_100496_l2" />
+          <option value="sectech.pkg_17522_13101_3" />
+          <option value="sre_mpi_algo.pkg_17500_13401_3" />
+          <option value="sre_pe3_cdnlog.pkg_cdn_for_public" />
+          <option value="taobao_dmp.dmp_for_alimm_algo_dev" />
+          <option value="taobao_dmp.pakg_160558_l2" />
+          <option value="taobao_dmp.pakg_160559_l3" />
+          <option value="taobao_dmp.pkg_17253_6410_2" />
+          <option value="tbbi_tcif.pkg_17362_25320_3" />
+          <option value="tbbi_tcif.pkg_17362_4220_2" />
+          <option value="tbbi_tcif.pkg_17362_6704_3" />
+          <option value="tbbi_tcif.tbbi_tcif_for_alimama_algo" />
+          <option value="tbcdm.pkg_37575_l3" />
+          <option value="tbcdm.pkg_83313_l2" />
+          <option value="tbcdm.tbcdm_for_alimama" />
+          <option value="tbods.pkg_13124_330_3" />
+          <option value="tbods.tbods_for_alimama_algo" />
+          <option value="tbptcif.pkg_13077_20706_3" />
+          <option value="tbptcif.pkg_13077_4237_3" />
+          <option value="tbptcif.pkg_13077_4238_3" />
+          <option value="tbptcif.pkg_13077_4239_3" />
+          <option value="tbptcif.pkg_13077_4240_2" />
+          <option value="tbptcif.pkg_37403_l3" />
+          <option value="tbptcif.tbptcif_for_alimama_algo" />
+          <option value="tmallsearch_algo.pkg_109363_l3" />
+          <option value="tutongkuan.pkg_17552_8479_3" />
+          <option value="wireless_ad.wireless_ad_2_alimm_af" />
+          <option value="wireless_wdm.pkg_94736_l2" />
+        </list>
+      </option>
+      <option name="synced" value="true" />
+      <option name="projectAccess">
+        <OdpsProjectAccess>
+          <option name="accessId" value="WVBMRqpdPwrl7KYx" />
+          <option name="accessKey" value="GSANB2eEo9uYi7LwXG9OhS0bgpvGmW" />
+          <option name="accessSourceType" value="DATAWORKS" />
+          <option name="endPoint" value="http://service-corp.odps.aliyun-inc.com/api" />
+          <option name="projectName" value="alimama_kgb_cmop" />
+          <option name="realEndPoint" value="http://service-corp.odps.aliyun-inc.com/api" />
+        </OdpsProjectAccess>
+      </option>
+    </StudioOdpsProject>
+    <StudioOdpsProject>
+      <option name="packageNames">
+        <list>
+          <option value="abif.pkg_83312_l2" />
+          <option value="ad_effect.ad_effect_4_algo" />
+          <option value="ad_effect.ad_effect_fun_4_dmp" />
+          <option value="ad_effect.pkg_17461_8926_3" />
+          <option value="ad_nz_dw.muse_odps_package" />
+          <option value="ad_p4p_dw.p4pdw_for_adalgo" />
+          <option value="ad_p4p_dw.pkg_145970_l3" />
+          <option value="ad_p4p_dw.pkg_145973_l3" />
+          <option value="ad_p4p_dw_dev.p4pdw_dev_for_adalgo" />
+          <option value="ad_quality_tech.ad_quality_term_rule_detect" />
+          <option value="ad_tbk_dw.ad_tbk_4_algo" />
+          <option value="ad_tbk_dw.pkg_102579_l2" />
+          <option value="ad_tbk_dw.pkg_17562_6967_3" />
+          <option value="algo1688.algo1688_tw" />
+          <option value="alifin_odps_birisk.birisk_for_alimama_algo" />
+          <option value="alimama_algo.pkg_p4p_kgb_qr_normalize" />
+          <option value="alimama_data_common.pkg_20341_5133_2" />
+          <option value="alimama_ods.all_table_read_4_algo" />
+          <option value="alimm_dispads_data_dev.lookalike_data" />
+          <option value="alipaydm.graphlibs" />
+          <option value="alipaydw.alipaydw_for_alimama_algo" />
+          <option value="alipaydw_dev.alipaydw_dev_for_alimama_algo_dev" />
+          <option value="aliyun_img_bamai.pkg_17554_4203_2" />
+          <option value="aliyun_img_bamai.pkg_17554_4531_2" />
+          <option value="aliyun_img_bamai.pkg_28955_l3" />
+          <option value="aliyun_searchlog.pkg_129073_l2" />
+          <option value="cdo_algorithm.deeplearning" />
+          <option value="cnzz_mart.pakg_16627_l2" />
+          <option value="cnzz_mart.pakg_2214_l2" />
+          <option value="cnzz_mart.pakg_24141_l2" />
+          <option value="cnzz_mart.pakg_2546_l2" />
+          <option value="cnzz_mart.pakg_989749_l2" />
+          <option value="cnzz_mart.pakg_991985_l2" />
+          <option value="cnzz_mart.pkg_129411_l2" />
+          <option value="cnzz_mart.pkg_158943_l2" />
+          <option value="cnzz_mart.pkg_158946_l2" />
+          <option value="cnzz_mart.pkg_159434_l2" />
+          <option value="cnzz_mart.pkg_159435_l2" />
+          <option value="cnzz_mart.pkg_163457_l3" />
+          <option value="cnzz_mart.pkg_163458_l2" />
+          <option value="cnzz_mart.pkg_38892_l3" />
+          <option value="cnzz_mart.pkg_48986_l3" />
+          <option value="cnzz_mart.pkg_48987_l3" />
+          <option value="cnzz_mart.pkg_48988_l3" />
+          <option value="cnzz_ods.pkg_176223_l3" />
+          <option value="cnzz_ods.pkg_50418_l3" />
+          <option value="cnzz_ods.pkg_50419_l3" />
+          <option value="crm_cdm.pkg_145983_l3" />
+          <option value="dmp_public.dmppublic_for_algo" />
+          <option value="image_algorithm_platform.algorithm_package" />
+          <option value="image_algorithm_platform_dev.algorithm_package" />
+          <option value="p13n.p13n_for_alimama" />
+          <option value="search_dw.pkg_20003_13400_3" />
+          <option value="search_fake.pakg_72584_l2" />
+          <option value="search_fake.pkg_101713_l3" />
+          <option value="search_fake.pkg_156109_l2" />
+          <option value="search_kg.alinlp_udf" />
+          <option value="search_ods.pkg_20004_10908_3" />
+          <option value="search_ods.pkg_20004_4523_2" />
+          <option value="search_ods.pkg_20004_8647_3" />
+          <option value="search_ods.search_ods_for_alimama" />
+          <option value="search_offline.qt_udf_pk" />
+          <option value="search_offline_dev.search_offline_dev_for_alimama_algo" />
+          <option value="secdm.pkg_29143_l3" />
+          <option value="secdm.pkg_32800_l4" />
+          <option value="secdw.pkg_31579_l3" />
+          <option value="secdw.secdw_for_alimama_algo" />
+          <option value="secods.pkg_36474_l3" />
+          <option value="secods.secods_functions" />
+          <option value="sectech.pkg_100496_l2" />
+          <option value="sectech.pkg_17522_13101_3" />
+          <option value="sre_mpi_algo.pkg_17500_13401_3" />
+          <option value="sre_pe3_cdnlog.pkg_cdn_for_public" />
+          <option value="taobao_dmp.dmp_for_alimm_algo_dev" />
+          <option value="taobao_dmp.pakg_160558_l2" />
+          <option value="taobao_dmp.pakg_160559_l3" />
+          <option value="taobao_dmp.pkg_17253_6410_2" />
+          <option value="tbbi_tcif.pkg_17362_4220_2" />
+          <option value="tbbi_tcif.pkg_17362_6704_3" />
+          <option value="tbbi_tcif.tbbi_tcif_for_alimama_algo_dev" />
+          <option value="tbbi_tcif.tbbi_tcif_for_alimama_algo_dev2" />
+          <option value="tbcdm.pkg_159122_l2" />
+          <option value="tbcdm.pkg_37575_l3" />
+          <option value="tbcdm.pkg_83313_l2" />
+          <option value="tbcdm.tbcdm_for_alimama" />
+          <option value="tbods.tbods_for_alimama_algo" />
+          <option value="tbptcif.pkg_13077_20706_3" />
+          <option value="tbptcif.pkg_13077_4237_3" />
+          <option value="tbptcif.pkg_13077_4238_3" />
+          <option value="tbptcif.pkg_13077_4239_3" />
+          <option value="tbptcif.pkg_13077_4240_2" />
+          <option value="tbptcif.pkg_37403_l3" />
+          <option value="tbptcif.tbptcif_for_alimama_algo" />
+          <option value="tmallsearch_algo.pkg_109363_l3" />
+          <option value="tutongkuan.pkg_17552_8479_3" />
+          <option value="wireless_ad.wireless_ad_2_alimm_af" />
+          <option value="wireless_wdm.pkg_94736_l2" />
+        </list>
+      </option>
+      <option name="synced" value="true" />
+      <option name="projectAccess">
+        <OdpsProjectAccess>
+          <option name="accessId" value="WVBMRqpdPwrl7KYx" />
+          <option name="accessKey" value="GSANB2eEo9uYi7LwXG9OhS0bgpvGmW" />
+          <option name="accessSourceType" value="DATAWORKS" />
+          <option name="endPoint" value="http://service-corp.odps.aliyun-inc.com/api" />
+          <option name="projectName" value="alimama_kgb_cmop_dev" />
+          <option name="realEndPoint" value="http://service-corp.odps.aliyun-inc.com/api" />
+        </OdpsProjectAccess>
+      </option>
+    </StudioOdpsProject>
+  </component>
+</application>
